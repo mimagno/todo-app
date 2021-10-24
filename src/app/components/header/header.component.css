@@ -1,0 +1,28 @@
+img{
+    height: 4rem;
+}
+
+.header{
+    justify-content: start;
+    height: 10%;
+    padding-left: 7.5%;
+}
+
+span{
+    display: flex;
+    align-items: center;
+}
+
+h1{
+    padding: 1.2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #c2185b;
+}
+
+div{
+  display: flex;
+  cursor: pointer;
+}
+

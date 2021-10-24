@@ -1,0 +1,39 @@
+.container{
+  width: 85%;
+  margin: auto;
+}
+
+.content{
+  width: 100%;
+}
+
+.badge button{
+  margin-top: 1rem;
+  width: 100%;
+  background-color: rgb(32, 30, 30);
+  font-size: 18px;
+  font-weight: 600;
+}
+
+p{
+  text-align: end;
+  font-weight: 600;
+  color: rgb(177, 169, 169);
+  padding-bottom: 0%;
+}
+
+mat-card{
+  margin-top: .8rem;
+  padding: .2rem;
+}
+
+.actions{
+  text-align: end;
+}
+
+.actions button{
+  margin: .5rem;
+  background-color: rgb(34, 33, 33);
+  color: rgb(57, 218, 118);
+  border-radius: 30px;
+}

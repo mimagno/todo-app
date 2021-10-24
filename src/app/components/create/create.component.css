@@ -1,0 +1,48 @@
+form {
+  width: 70%;
+  margin: 2rem auto 0 auto;
+  text-align: center;
+}
+
+.data-finalizar {
+  text-align: start;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 3rem;
+  color: #c2185b;
+}
+
+.form {
+  width: 100%;
+}
+
+.buttons {
+  width: 100%;
+  text-align: start;
+}
+
+button {
+  margin-right: .5rem;
+  padding-right: 2rem;
+  padding-left: 2rem;
+}
+
+input{
+  color: white;
+  padding-top: 20px;
+}
+
+.create{
+  color: rgb(57, 218, 118);
+}
+
+.input-text{
+  font-size: 30px;
+}
+
+mat-label{
+  font-size: 20px;
+}
